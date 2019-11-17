@@ -1,6 +1,6 @@
 # Copy of https://github.com/dolongbien/HumanBehaviorBKU/blob/master/C3D/generate_inout_file.py
 
-%cd /content/gdrive/My\ Drive/C3D/C3D-v1.0/examples/c3d_feature_extraction/input/Traning_Normal_Part1_Video
+#%cd /content/gdrive/My\ Drive/C3D/C3D-v1.0/examples/c3d_feature_extraction/input/Traning_Normal_Part1_Video
 import os, os.path
 import cv2
 import glob
