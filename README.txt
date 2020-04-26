@@ -1,9 +1,16 @@
-devjaynemorais@gmail.com
 
-Faça upload no seu drive pessoal do projeto contido no arquivo zipado como uma pasta chamada 'C3D'.
+Diretório Atual: `/home/jayne/Documentos/MESTRADO/PESQUISA/Arquivos para manter o colab estável/Step 1 - Extração de Features`
 
-Abra o notebook .ipynb pelo Google Colaboratory e execute-o. (No notebook já contém as instruções necessárias para o entendimento).
+Conta utilizada: `devjaynemorais@gmail.com`
 
-Os arquivos generate_inout_file.py e Makefile.config são arquivos de backup, os quais também estão contidos dentro do projeto do arquivo zipado. São as mesmas versões. Separei-os aqui apenas para backup, em caso de não necessitar mais que faça upload de todo o projeto C3D para o drive, apenas o Makefile.config e o generate_inout_file.py, no entanto, para customizar esse processo que será feito futuramente, deve-se alterar os caminhos dos comando que são responsáveis de copiar esses dois arquivos de dentro do projeto C3D que foi feito upload no drive.
+-----------
 
-A pasta output_novelty_features_c3d_extract/ já contém as features extraídas por mim para três tipos de ações distribuídas por vídeos.
+Clone o repositório:
+`git clone https://github.com/devjaynemorais/C3D` branch master
+
+Faça upload do arquivo C3D_extract_features_C3D_novelty_vf.ipynb para o Drive do Google.
+
+Para extrair as características C3D: 
+Abra o notebook `C3D_extract_features_C3D_novelty_vf.ipynb` pelo Google Colaboratory e execute-o. (No notebook contém as instruções necessárias para o entendimento).
+
+Após executado o notebook, o mesmo solicitará o download do arquivo output_novelty_features_c3d_extract.zip, o qual contém as features C3D extraídas dos vídeos.
