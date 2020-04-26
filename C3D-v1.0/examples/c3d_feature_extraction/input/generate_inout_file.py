@@ -27,7 +27,7 @@ max_batch_num = 1
 result = 0
 
 # read file path name in alphabet order
-file_list_v = sorted(glob.glob1("/content/C3D/C3D-v1.0/examples/c3d_feature_extraction/input", "*.avi"))
+file_list_v = sorted(glob.glob1("/content/gdrive/My Drive/C3D/C3D-v1.0/examples/c3d_feature_extraction/input", "*.avi"))
 
 print('files.....')
 print(file_list_v)
